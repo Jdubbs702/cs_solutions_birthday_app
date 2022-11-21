@@ -3,7 +3,7 @@
 This repo contains my solutions for the computer science course I took.
 It is algorithm and data structure focused and includes a variety of "real-world"
 problems to solve.
-Problems include solutions in HTML, CSS, Javascript, Python, and SQL
+Problems include solutions in HTML, CSS, Flask, Python, and SQL
 
 Create a web application to keep track of friends’ birthdays
 In app.py, you’ll find the start of a Flask web application. The application has one route (/) that accepts both POST requests (after the if) and GET requests (after the else). Currently, when the / route is requested via GET, the index.html template is rendered. When the / route is requested via POST, the user is redirected back to / via GET.
